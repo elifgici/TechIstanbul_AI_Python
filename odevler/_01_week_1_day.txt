@@ -1,2 +1,4 @@
 LLM Nedir ?
 Large Language Model : Büyük Dil Modeli
+Büyük miktarda metin verisiyle eğitilen ve insan dilini işleyerek metin üretebilen yapay zekâ modelleridir.
+Metin oluşturma, özetleme, soru cevaplama ve çeviri gibi görevlerde kullanılabilir.
