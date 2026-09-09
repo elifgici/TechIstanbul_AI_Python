@@ -1,3 +1,14 @@
 AI-ML-DL farklar
+AI > ML > DL
+AI(YZ:Yapay Zeka): Bilgisayarın insan gibi düşünme,öğrenme ve karar verme gibi görevleri yapmasını sağlayan genel bir alandır.
+ML(MÖ:Makine Öğrenmesi): Bilgisayara tüm kuralları tek tek öğretmek yerine, verilerden örüntüleri öğrenmesini sağlayan yapay zekanın bir alt dalıdır.
+DL(DÖ:Derin Öğrenme): Çok miktarda veri ile çalışabilen ve insan beynindeki sinir ağlarından esinlenen yapay sinir ağı olup, makine öğrenmesinin bir alt dalıdır.
+
 RAG nedir ?
+RAG(Retrieval-Augmented Generation/Bilgi Erişim Destekli Üretim): Yapay zekanın cevap oluştururken dışarıdaki kaynaklardan bilgi alması yöntemidir.
+Model, verilen kaynaklardan ilgili bilgileri bulur ve bunları kullanarak bir cevap verir. Böylece daha güncel ve belirli bir kaynağa dayalı cevaplar verebilir.
+
+
 Fine Tuning
+Fine Tuning (ince ayar), hazır bir yapay zeka modelinin belirli bir amaç veya konu için verilen özel verilerle tekrar eğitilmesidir.
+Bu yöntem ile modelin belirli bir alanda daha başarılı ve istenilen şekilde çalışması sağlanabilir.
